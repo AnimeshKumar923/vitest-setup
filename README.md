@@ -19,3 +19,6 @@ npm update
 ```bash 
 npm outdated
 ```
+
+If you want to start this setup from scratch, you can use the following article to setup the vitest environment:
+https://www.robinwieruch.de/vitest-react-testing-library/
